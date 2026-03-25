@@ -1,0 +1,7 @@
+node_modules/
+output/
+assets/images/*.jpg
+assets/images/*.png
+assets/images/*.webp
+.env
+.DS_Store
